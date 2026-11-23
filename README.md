@@ -116,7 +116,7 @@ Clone the repository:
 
 ```bash
 
-git clone YOUR\_GITHUB\_REPOSITORY\_URL
+git clone https://github.com/JoduVyshnavi17/cynbit-backend-technical-audit.git
 
 cd cynbit-backend-audit
 
