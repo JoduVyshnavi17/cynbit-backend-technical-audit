@@ -1,0 +1,6 @@
+node_modules/
+cynbit_audit.db
+cynbit_audit.db-shm
+cynbit_audit.db-wal
+.env
+coverage/
